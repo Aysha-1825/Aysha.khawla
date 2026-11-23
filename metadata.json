@@ -1,0 +1,6 @@
+{
+  "name": "رحلة الكسور عبر محافظات عُمان",
+  "description": "رحلة تعليمية تفاعلية في سيارة عبر محافظات سلطنة عُمان، تنطلق من جنوب الشرقية وتغطي عناصر درس جمع الكسور وطرحها وفق التحضير المرفق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
